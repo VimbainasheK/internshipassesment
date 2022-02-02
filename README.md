@@ -16,4 +16,4 @@ This is an attempt to solve the practical questions in the internship assessment
 
 First Attempt using Odoo 
 
--I encountered a  internal serrvice error after closing the window,
+-I encountered a  internal serrvice error after closing the window,troubleshooting still in progress
